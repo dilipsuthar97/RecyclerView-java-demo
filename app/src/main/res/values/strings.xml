@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">RecyclerView_Java_Demo</string>
+
+    <string-array name="country_name">
+        <item>India</item>
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>The Bahamas</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Cambodia</item>
+        <item>Cameroon</item>
+        <item>Canada</item>
+        <item>Denmark</item>
+        <item>Dominica</item>
+        <item>Egypt</item>
+        <item>Eritrea</item>
+        <item>Finland</item>
+        <item>France</item>
+        <item>Greece</item>
+        <item>Guatemala</item>
+        <item>Grenada</item>
+        <item>Iceland</item>
+        <item>Indonesia</item>
+        <item>Iran</item>
+        <item>Ireland</item>
+        <item>Israel</item>
+    </string-array>
+</resources>
